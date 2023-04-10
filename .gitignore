@@ -1,0 +1,6 @@
+# NetBeans specific #
+/nbproject/private/
+
+/src/ConnectVariable.txt
+/src/remember.dat
+/dist/
